@@ -119,7 +119,7 @@ ul a:hover {
 
 @media (max-width: 768px) {
     .container {
-        width: 360px;
+        width: 350px;
         background-color: white;
         margin: auto;
         margin-top: 1rem;
